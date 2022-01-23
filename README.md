@@ -2,7 +2,7 @@
 
 ### usage
 
-```
+```python
 nepse_api = NepseApi()
 
 # get data for particular date, must be a datetime.date object
